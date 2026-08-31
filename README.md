@@ -16,7 +16,7 @@ I work on AI developer tools, agent infrastructure, and evaluation for code gene
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/polaris-pku/newide-scaffold">01 / newIDE</a></h3>
+<h3><a href="https://github.com/polaris-pku/newide-scaffold">01 / Polaris</a></h3>
 <p>Backend infrastructure for coding agents: task orchestration, persistent memory, and multi-agent Council workflows.</p>
 <p><sub>CONTRIBUTOR · TypeScript · Agent runtime</sub><br/>
 <a href="https://github.com/polaris-pku/newide-scaffold/pulls?q=is%3Apr+author%3ANeighhhbor+is%3Amerged">My merged contributions ↗</a></p>
