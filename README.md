@@ -28,20 +28,6 @@ I work on AI developer tools, agent infrastructure, and evaluation for code gene
 <a href="https://github.com/jiangxxxue/KOCO-bench/commits?author=Neighhhbor">My contributions ↗</a></p>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/polaris-pku/acp-client-prototype">03 / Universal ACP Client</a></h3>
-<p>A shared interface for connecting coding agents to larger systems. Contributions include the ACP driver contract runner.</p>
-<p><sub>CONTRIBUTOR · TypeScript · Developer tooling</sub><br/>
-<a href="https://github.com/polaris-pku/acp-client-prototype/pull/48">Driver integration ↗</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Neighhhbor/Schedule">04 / Schedule</a></h3>
-<p>A rehearsal venue scheduler for a dance club: collecting preferred slots and allocating shared spaces with a conflict-aware heuristic.</p>
-<p><sub>PERSONAL PROJECT · Python · Flask · SQLite</sub><br/>
-<a href="https://github.com/Neighhhbor/Schedule">Explore the project ↗</a></p>
-</td>
-</tr>
 </table>
 
 ### Around the workbench
